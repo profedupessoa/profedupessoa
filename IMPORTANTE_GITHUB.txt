@@ -1,0 +1,8 @@
+SUBA TODOS OS ARQUIVOS DESTA PASTA PARA O REPOSITÓRIO, SUBSTITUINDO OS EXISTENTES.
+
+IMPORTANTE:
+- NÃO envie node_modules.
+- NÃO apague o package-lock.json que já está no repositório.
+- Este pacote corrige o package.json para voltar a ficar compatível com o package-lock existente.
+- Build command na Cloudflare: npm run build
+- Deploy command: npx wrangler deploy
