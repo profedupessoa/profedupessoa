@@ -1,0 +1,1 @@
+IMPORTANTE: extraia este ZIP e envie OS ARQUIVOS DE DENTRO diretamente na RAIZ do repositório GitHub. Nao envie a pasta externa. O package.json da raiz deve ser substituido pelo deste pacote. Mantenha o package-lock.json que ja existe no GitHub. Nao envie node_modules.
