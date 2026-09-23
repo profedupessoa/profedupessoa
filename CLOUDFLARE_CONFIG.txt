@@ -1,0 +1,14 @@
+CLOUDFLARE WORKERS BUILD
+
+Build command:
+npm run build
+
+Deploy command:
+npx wrangler deploy
+
+Preview command:
+npx wrangler preview
+
+Root directory: leave blank
+
+This version uses Vite build directly (no TypeScript typecheck during CI) and wrangler static assets with SPA fallback.
