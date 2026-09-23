@@ -1,0 +1,29 @@
+EDU PESSOA PERFORMANCE
+=====================
+Projeto React + TypeScript + Vite, preparado para uso local.
+
+Público:
+- Home premium
+- Página TEA
+- Agenda
+- Avaliações
+
+Admin:
+- Dashboard
+- Agenda
+- Agendamentos
+- CRM
+- Serviços
+- Disponibilidade/bloqueios
+- Avaliações
+- Resultados
+- Conteúdo
+- TEA
+- FAQ
+- Mensagens WhatsApp
+- Integrações
+- Configurações
+
+Persistência local: localStorage
+Google Calendar: estrutura visual/desconectada
+WhatsApp: mensagens e links preparados
