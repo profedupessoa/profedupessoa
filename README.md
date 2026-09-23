@@ -20,3 +20,8 @@ Senha: admin123
 
 ## Observação
 A versão local usa localStorage para testes. Notificação push real precisa de HTTPS e backend/serviço de push configurado.
+
+## Cloudflare Workers
+Build command: `npm run build`
+Deploy command: `npx wrangler deploy`
+
